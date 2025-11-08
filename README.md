@@ -14,7 +14,8 @@ This proves a deep insight: **Momentum's primary benefit is not just speed, but 
 
 ### The "Knockout" Plot: SGD (Fails) vs. Momentum (Succeeds)
 
-<img width="1023" height="778" alt="image" src="https://github.com/user-attachments/assets/2e67d7a0-c960-4526-8952-3dfcd1222732" />
+<img width="1023" height="778" alt="image" src="https://github.com/user-attachments/assets/eef858ee-fbb0-411f-87f8-22d8126d9007" />
+
  
 
 As the plot clearly shows, at the same aggressive learning rate:
